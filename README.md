@@ -1,6 +1,5 @@
 # Martial_Arts-RPG
 
-[![Build Status](https://travis-ci.com/Developer-JG/Martial_Arts-RPG.svg?branch=master)](https://travis-ci.com/Developer-JG/Martial_Arts-RPG)
 ![python3.6](https://img.shields.io/badge/python-3.6.8-brightgreen)
 ![license](https://img.shields.io/badge/license-CC--BY--NC--SA-orange)
 
