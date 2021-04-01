@@ -5,7 +5,7 @@
 
 ### Second, martial arts fantasy
 
-lastest Renewals : 2020/3/10
+lastest Renewals : 2020/3/8
 
 # History
 
@@ -29,7 +29,6 @@ March
 07 db_beta (v.9) (1.3)
 08 db_beta (v.10) (0.5)
 08 db_beta (v.11) (1)
-10 db_beta (v.12) (0.1) (0.1)
 ```
 
 # Licence
